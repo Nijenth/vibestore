@@ -98,7 +98,7 @@ function App() {
         {/* Hero section */}
         <section className="hero">
           <p className="eyebrow">YOUR PERSONAL PRODUCT STORE</p>
-          <h1>Build your collection.</h1>
+          <h1>Discover Your Next Favorite Product</h1>
           <p>
             Add products, manage prices, and explore
             your growing collection.
